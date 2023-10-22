@@ -40,7 +40,7 @@ body {
       rgba(35, 241, 207, 0.5),
       rgba(51, 3, 154, 0.219)
     ),
-    url("./assets/plain.jpg");
+    url(assets/plain.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
